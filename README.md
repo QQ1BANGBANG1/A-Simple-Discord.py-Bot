@@ -8,3 +8,5 @@ Hey there,This is a simple multipurpose disord.py bot and it has very simple com
 If you had any questions you can ask me in discord,My discord id : QQʙᴀɴɢʙᴀɴɢ#5506/484692793890177034
 
 Read Here : You can change everything you want,there's no problem with it.glhf mate <3
+
+Suggested for developers/designers : https://discord.gg/FFsAK75udz
